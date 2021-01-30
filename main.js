@@ -1,4 +1,4 @@
-var canvas= new.fabric.Canvas('myCanvas')
+var canvas= new.fabric.Canvas("myCanvas")
 var superhero_x=10
 var superhero_y=10
 var supertool_width=30
